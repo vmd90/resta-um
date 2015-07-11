@@ -1,4 +1,4 @@
-
+<h1>Resta Um Triangular</h1>
 Implementação simples do jogo Resta Um triangular aplicando conceitos de Inteligência Artificial tais como: árvores de jogo, busca cega e busca informada (usando o algoritmo A*).
 <br><br>
 Para executar, basta primeiro compilar os arquivos .java e executar o arquivo com o método principal e passar dois parâmetros, como é mostrado abaixo:<br>
